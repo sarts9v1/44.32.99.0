@@ -12,7 +12,7 @@ Create an issue or a pull request to request for some IPs.
 | 44.32.99.3 | - | |
 | 44.32.99.4 | - | |
 | 44.32.99.5 | - | |
-| 44.32.99.6 | Router | |
+| 44.32.99.6 | Router | sanjeev@dcs1.biz |
 | 44.32.99.7 | - | |
 | 44.32.99.8 | 9V1RB | |
 | 44.32.99.9 | - | |
@@ -260,5 +260,5 @@ Create an issue or a pull request to request for some IPs.
 | 44.32.99.251 | - | |
 | 44.32.99.252 | - | |
 | 44.32.99.253 | - | |
-| 44.32.99.254 | - | |
+| 44.32.99.254 | Wireguard/VPN Reserved | sanjeev@dcs1.biz |
 | 44.32.99.255 | Reserved | |
