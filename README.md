@@ -39,9 +39,9 @@ Create an issue or a pull request to request for some IPs.
 | 44.32.99.30 | - | |
 | 44.32.99.31 | - | |
 | 44.32.99.32 | 9V1RB | |
-| 44.32.99.33 | - | |
-| 44.32.99.34 | - | |
-| 44.32.99.35 | - | |
+| 44.32.99.33 | 9V1LD | AllStarLink |
+| 44.32.99.34 | 9V1LD | Openvpn/Wireguard for internal network |
+| 44.32.99.35 | 9V1LD | Spare |
 | 44.32.99.36 | - | |
 | 44.32.99.37 | - | |
 | 44.32.99.38 | - | |
