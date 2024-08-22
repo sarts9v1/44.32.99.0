@@ -7,21 +7,21 @@ Create an issue or a pull request to request for some IPs.
 | Address  | Assigned | Remarks |
 | -------- | -------- | ------- |
 | 44.32.99.0 | Reserved | |
-| 44.32.99.1 | Reserved | |
-| 44.32.99.2 | - | |
-| 44.32.99.3 | - | |
-| 44.32.99.4 | - | |
-| 44.32.99.5 | - | |
+| 44.32.99.1 | Reserved | SARTS equipment |
+| 44.32.99.2 | Reserved | SARTS equipment |
+| 44.32.99.3 | Reserved | SARTS equipment |
+| 44.32.99.4 | Reserved | SARTS equipment |
+| 44.32.99.5 | Reserved | SARTS equipment |
 | 44.32.99.6 | Router | 9V1GH: sanjeev@dcs1.biz |
-| 44.32.99.7 | - | |
+| 44.32.99.7 | Reserved | SARTS equipment |
 | 44.32.99.8 | 9V1RB | |
-| 44.32.99.9 | - | |
-| 44.32.99.10 | - | |
-| 44.32.99.11 | - | |
-| 44.32.99.12 | - | |
-| 44.32.99.13 | - | |
-| 44.32.99.14 | - | |
-| 44.32.99.15 | - | |
+| 44.32.99.9 | Reserved | SARTS equipment |
+| 44.32.99.10 | Reserved | SARTS equipment |
+| 44.32.99.11 | Reserved | SARTS equipment |
+| 44.32.99.12 | Reserved | SARTS equipment |
+| 44.32.99.13 | Reserved | SARTS equipment |
+| 44.32.99.14 | Reserved | SARTS equipment |
+| 44.32.99.15 | Reserved | SARTS equipment |
 | 44.32.99.16 | 9V1RB | |
 | 44.32.99.17 | - | |
 | 44.32.99.18 | - | |
