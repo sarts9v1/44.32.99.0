@@ -1,9 +1,3 @@
-# 44.32.99.0/24
-
-Create an issue or a pull request to request for some IPs.
-
-\- : Unassigned
-
 | Address  | Assigned | Remarks |
 | -------- | -------- | ------- |
 | 44.32.99.0 | Reserved | |
